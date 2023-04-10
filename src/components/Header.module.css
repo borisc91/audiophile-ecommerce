@@ -1,0 +1,15 @@
+.linkovi {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.linkovi:hover {
+    text-decoration: none;
+    color: #D87D4A;
+}
+
+.nelinkovi {
+    text-decoration: none;
+    color: black;
+}
